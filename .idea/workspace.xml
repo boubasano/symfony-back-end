@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65461c22-4f70-49d5-a02e-97cb642717b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Capture1.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Capture10.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Capture11.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Capture12.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Capture2.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Capture3.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Capture4.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Capture5.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Capture6.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Capture7.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Capture8.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/Capture9.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/bundles.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +96,7 @@
     <property name="DatabaseDriversLRU" value="mariadb" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Formation-ionic/todo-list" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -159,6 +142,8 @@
       <workItem from="1607703823165" duration="1775000" />
       <workItem from="1607705641466" duration="1784000" />
       <workItem from="1607708136996" duration="120000" />
+      <workItem from="1607708839444" duration="854000" />
+      <workItem from="1607712013477" duration="48000" />
     </task>
     <servers />
   </component>
@@ -170,10 +155,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607609087678" />
-    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1607708255114">
-      <screen x="1920" y="0" width="1920" height="1040" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1607712059238">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607681498546" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1607712059238" />
     <state x="2660" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1607708255114" />
   </component>
 </project>
